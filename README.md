@@ -18,7 +18,7 @@
  
 
 ## Open your favorite web browser and enter the following web address to access.
-The project was uploaded to GitHub at the following repository:
+The project was uploaded to GitHub at the following repository: https://github.com/Milfred08/project1
 
 You can access the deployed application with the GitHub Pages link:
 
